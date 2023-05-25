@@ -10,6 +10,7 @@ public class MethodExamples {
         for(int i=0;i<=n;i++){
             if(isEven(i)){
                 System.out.println(i);
+                System.out.println("Thank you");
             }
 
         }
