@@ -4,7 +4,8 @@ public class MethodExamples {
     int num = 13;
 
     public static void main(String[] args) {
-
+        System.out.println("Method examples");
+        System.out.println("done..");
     }
 
 
