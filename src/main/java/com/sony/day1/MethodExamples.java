@@ -1,4 +1,4 @@
-package com.sony;
+package com.sony.day1;
 
 public class MethodExamples {
     int num = 13;
