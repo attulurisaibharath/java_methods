@@ -7,7 +7,6 @@ public class ExamplesOfPrime {
         if(isPrime(num)){
             System.out.println("It is a prime number");
         }else{
-            System.out.println("It is not a prime number it is a composite number");
         }
     }
     public static boolean isPrime(int num){
